@@ -1,0 +1,24 @@
+{
+  "name": "laurienzo-hair-co-email-dispatcher-lambda",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Lambda function for handling inquiries from potential customers at https://laurienzohairco.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C-Laurienzo/laurienzo-hair-co-email-dispatcher-lambda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C-Laurienzo/laurienzo-hair-co-email-dispatcher-lambda/issues"
+  },
+  "homepage": "https://github.com/C-Laurienzo/laurienzo-hair-co-email-dispatcher-lambda#readme",
+  "dependencies": {
+    "@aws-sdk/client-sns": "^3.449.0"
+  }
+}
